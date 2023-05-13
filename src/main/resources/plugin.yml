@@ -1,0 +1,10 @@
+name: statistieken
+version: '${project.version}'
+main: me.itzzaran.stats.Main
+api-version: 1.17
+prefix: STATS
+authors: [ ItzzAran ]
+depend: [HolographicDisplays, ProtocolLib ]
+commands:
+  stats:
+  statholo:
